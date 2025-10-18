@@ -1,7 +1,7 @@
 # presto-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Presto
 
-:heavy_exclamation_mark: This project builds a local, read-only MCP server. For fully remote MCP access, check out the first managed MCP platform: [CData Connect AI](https://www.cdata.com/ai/). For locally hosted, full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Presto](https://www.cdata.com/drivers/presto/download/mcp/).
+:heavy_exclamation_mark: This project builds a local, read-only MCP server. For fully remote MCP access, check out the first managed MCP platform: [CData Connect AI](https://www.cdata.com/ai/). For locally hosted, full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for Presto](https://www.cdata.com/drivers/presto/download/mcp/).
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Presto supported by the [CData JDBC Driver for Presto](https://www.cdata.com/drivers/presto/jdbc/).
 
